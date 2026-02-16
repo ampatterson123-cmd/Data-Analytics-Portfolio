@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 A collection of data analytics projects focused on financial modeling, pricing strategy, risk assessment, and data-driven business insights using SQL, R, and Python. 
-Welcome to my data analytics portfolio. I am currently completing my Master of Science in Data Analytics with a focus on financial analytics, pricing strategy, and risk modeling. 
+\newline Welcome to my data analytics portfolio. I am currently completing my Master of Science in Data Analytics with a focus on financial analytics, pricing strategy, and risk modeling. 
 This repository showcases selected projects that demonstrate my ability to analyze complex data, apply quantitative methods, and translate results into meaningful business recommnedations. 
 Areas of Focus: Financial Analytics, Pricing Strategy & Revenue Optimization, Risk Modeling & Assessment, Business Intelligence, Behavioral & Market Analytics
 Technical Skills: SQL, R (RStudio), Python (Pandas, NumPy, Scikit-learn, Matplotlib), Excel, Power BI, Exploratory Data Analysis (EDA), Regression Modeling, Classification Models, Financial Ratio & Performance Analysis, Risk Scoring & Evaluation, Pricing Sensitivity & Revenue Analysis, CRISP-DM Framework
