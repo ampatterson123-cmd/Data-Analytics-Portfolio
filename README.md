@@ -56,5 +56,5 @@ I am particularly interested in roles where data drives financial performance, p
 ---
 
 ## Connect  
-Feel free to connect with me on LinkedIn.
+Feel free to connect with me on LinkedIn. My email is ampatterson123@gmail.com. 
 
