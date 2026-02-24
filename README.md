@@ -54,13 +54,13 @@ I am actively seeking opportunities in:
 I am particularly interested in roles where data drives financial performance, pricing decisions, and long-term risk management.
 
 ---
-## 📊 Loan Default Risk Analysis (SQL Server)
+## 📊 Financial Risk Analysis (SQL Server)
 
 This project analyzes borrower-level loan data to identify high-risk segments using T-SQL in SQL Server (SSMS).  
 The analysis includes data cleaning, risk flag engineering, and default rate segmentation.
 
 🔗 View the full project here:  
-[Loan Default Risk Analysis Repository](https://github.com/ampatterson123-cmd/Financial-Risk-Analysis-Project/tree/main)
+[Financial Risk Analysis Repository](https://github.com/ampatterson123-cmd/Financial-Risk-Analysis-Project/tree/main)
 
 ---
 ## Connect  
