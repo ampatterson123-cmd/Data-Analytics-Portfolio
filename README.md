@@ -26,7 +26,7 @@ This portfolio highlights selected projects that demonstrate my ability to analy
 
 ## Featured Projects  
 - **Financial Risk Analysis**  
-- **Pricing Strategy & Revenue Optimization**  
+- **Revenue Concentration & Strategic Growth Optimization Analysis**  
 - **Video Game Data Analysis (Passion Project)**  
 
 ---
