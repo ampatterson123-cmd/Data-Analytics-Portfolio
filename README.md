@@ -54,13 +54,21 @@ I am actively seeking opportunities in:
 I am particularly interested in roles where data drives financial performance, pricing decisions, and long-term risk management.
 
 ---
-## 📊 Financial Risk Analysis (SQL Server)
+## Financial Risk Analysis (SQL Server)
 
 This project analyzes borrower-level loan data to identify high-risk segments using T-SQL in SQL Server (SSMS).  
 The analysis includes data cleaning, risk flag engineering, and default rate segmentation.
 
 🔗 View the full project here:  
 [Financial Risk Analysis Repository](https://github.com/ampatterson123-cmd/Financial-Risk-Analysis-Project/tree/main)
+
+---
+## Revenue Concentration & Strategic Growth Optimization Analysis (Excel and RStudio)
+
+This project analyzes the superstore sales data to understand which customer segments and product categories generate the highest revenue concentration. The goal is to provide actionable insights for pricing and promotional strategies to maximize growth.   
+
+🔗 View the full project here: 
+[Revenue Concentration Analysis Repository](https://github.com/ampatterson123-cmd/Revenue-Concentration-Strategic-Growth-Optimization-Analysis)
 
 ---
 ## Connect  
