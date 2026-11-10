@@ -1,6 +1,6 @@
 # Data Analytics Portfolio  
 
-Welcome! I am currently completing my **Master of Science in Data Analytics**, with a focus on **financial analytics, pricing strategy, and risk modeling**.  
+Welcome! I recently completed my **Master of Science in Data Analytics**, with a focus on **financial analytics, pricing strategy, and risk modeling**.  
 
 This portfolio highlights selected projects that demonstrate my ability to analyze complex datasets, apply quantitative methods, and translate results into actionable business insights.
 
